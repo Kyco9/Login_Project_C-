@@ -1,0 +1,12 @@
+K:\source\repos\Login_Project\Login_Project\bin\Debug\Login_Project.exe.config
+K:\source\repos\Login_Project\Login_Project\bin\Debug\Login_Project.exe
+K:\source\repos\Login_Project\Login_Project\bin\Debug\Login_Project.pdb
+K:\source\repos\Login_Project\Login_Project\obj\Debug\Login_Project.csprojAssemblyReference.cache
+K:\source\repos\Login_Project\Login_Project\obj\Debug\Login_Project.Properties.Resources.resources
+K:\source\repos\Login_Project\Login_Project\obj\Debug\Login_Project.csproj.GenerateResource.cache
+K:\source\repos\Login_Project\Login_Project\obj\Debug\Login_Project.csproj.CoreCompileInputs.cache
+K:\source\repos\Login_Project\Login_Project\obj\Debug\Login_Project.exe
+K:\source\repos\Login_Project\Login_Project\obj\Debug\Login_Project.pdb
+K:\source\repos\Login_Project\Login_Project\obj\Debug\Login_Project.frmLogin.resources
+K:\source\repos\Login_Project\Login_Project\obj\Debug\Login_Project.frAdmin.resources
+K:\source\repos\Login_Project\Login_Project\obj\Debug\Login_Project.FormKH.resources
