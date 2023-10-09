@@ -21,6 +21,7 @@ namespace Login_Project
         {
             this.Close();
             frmLogin frM = new frmLogin();
+            //cuong here
             frM.Show();
         }
     }
